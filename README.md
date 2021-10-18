@@ -1,1 +1,1 @@
-Hi, i use this github for all my perosnal projects. 
+Hi, i use this github for all my personal projects. 
