@@ -5,3 +5,5 @@ my main interests are :
  - game develpoment > I have experince using C# in unity to design and develop 3D games. 
  - app development > I have experince using java to develop native android applications and flutter to develop cross platform applications. 
  - docker & kubernetes > I am familiar with using docker and k8s for devOps and cloud computing, as well as using in conjunction with continous integration services such as travis CI for deployment to AWS and GCS
+
+-- I also play guitar and some drums :)
