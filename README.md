@@ -1,6 +1,8 @@
 Hi, I use this github for all my personal projects. 
 My main interests are :
- - Web DFevelopment > I am a full stack web developer specializing in the MERN stack
+ - C# ASP .NET Development > I have developed web projects in MVC using the ASP .NET framwork
+ - Java Spring Boot > I am familiar with using the Spring Boot framework to develop web apps
+ - Web Development > I am a full stack web developer specializing in the MERN stack
  - Data Science & Machine Learning > I am familiar with core data science and ml python libraries such as scikit and sklearn. Some of my projects can be found in my repo. 
  - Game Develpoment > I have experince using C# in unity to design and develop 3D games. 
  - App Development > I have experince using java to develop native android applications and flutter to develop cross platform applications. 
